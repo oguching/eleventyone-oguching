@@ -21,7 +21,7 @@ From this point we should already have:
 
 ## Post pages
 
-The pages found in in the posts
+The pages found in the posts
 
 <ul class="listing">
 {%- for page in collections.post -%}
