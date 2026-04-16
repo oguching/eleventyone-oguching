@@ -17,7 +17,7 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.5",
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3",
-    "autoprefixer": "^9.6.0",
+    "autoprefixer": "^10.5.0",
     "axios": "^1.15.0",
     "cssnano": "^7.1.5",
     "dotenv": "^8.0.0",
