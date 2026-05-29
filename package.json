@@ -18,7 +18,7 @@
     "@11ty/eleventy": "^3.1.5",
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3",
     "autoprefixer": "^9.6.0",
-    "axios": "^1.15.0",
+    "axios": "^1.16.0",
     "cssnano": "^7.1.5",
     "dotenv": "^8.0.0",
     "html-minifier": "^4.0.0",
